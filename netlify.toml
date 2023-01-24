@@ -1,4 +1,4 @@
 [build]
-  command = "pip install -r requirements.txt && python app.py"
+  command = "pip3 install -r requirements.txt && python3 app.py"
   publish = "app.py"
 
